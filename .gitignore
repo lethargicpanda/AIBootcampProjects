@@ -1,3 +1,5 @@
 
 week1_eval/.env
 /week1_eval/.venv
+.env
+/.venv
